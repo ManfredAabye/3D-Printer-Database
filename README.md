@@ -2,9 +2,12 @@
 
 ACHTUNG!!! Dies ist eine in der Entwicklung stehendes noch nicht korrekt funktionierendes Experiment.
 
-Dieses Projekt bietet eine webbasierte Verwaltungsoberfläche für 3D-Drucker, Druckprofile und Komponenten. 
-Die Datenbankstruktur ist so gestaltet, dass sie universell und portierbar für verschiedene 3D-Druck-Firmwares (z. B. Klipper, Marlin, Repetier) sowie Slicer-Software wie OrcaSlicer, 
-PrusaSlicer, Cura und weitere geeignet ist. Ziel ist es, eine einheitliche, flexible Datenbasis zu schaffen, die unabhängig von der eingesetzten Firmware oder Slicer-Software genutzt werden kann.
+Dieses Projekt bietet eine webbasierte Verwaltungsoberfläche für 3D-Drucker, Druckprofile und Komponenten.
+
+Die Datenbankstruktur ist so gestaltet, dass sie universell und portierbar für verschiedene 3D-Druck-Firmwares (z. B. Klipper, Marlin, Repetier) 
+sowie Slicer-Software wie OrcaSlicer, PrusaSlicer, Cura und weitere geeignet ist. 
+
+Ziel ist es, eine einheitliche, flexible Datenbasis zu schaffen, die unabhängig von der eingesetzten Firmware oder Slicer-Software genutzt werden kann.
 
 ## Features
 
