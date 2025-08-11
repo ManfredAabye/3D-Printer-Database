@@ -1,5 +1,5 @@
 <?php
-require_once 'config.php';
+require_once 'includes/config.php';
 require_once 'functions/printers.php';
 require_once 'functions/profiles.php';
 require_once 'functions/components.php';
@@ -39,7 +39,7 @@ include 'includes/header.php';
             <div class="card">
                 <div class="card-header">Drucker</div>
                 <div class="card-body">
-                    <?php include 'includes/forms/printer_form.php'; ?>
+                    <?php include 'functions/printer_form.php'; ?>
                 </div>
             </div>
         </div>
@@ -48,7 +48,7 @@ include 'includes/header.php';
             <div class="card">
                 <div class="card-header">Profile</div>
                 <div class="card-body">
-                    <?php include 'includes/forms/profile_form.php'; ?>
+                    <?php include 'functions/profile_form.php'; ?>
                 </div>
             </div>
         </div>
@@ -57,7 +57,7 @@ include 'includes/header.php';
             <div class="card">
                 <div class="card-header">Komponenten</div>
                 <div class="card-body">
-                    <?php include 'includes/forms/component_form.php'; ?>
+                    <?php include 'functions/component_form.php'; ?>
                 </div>
             </div>
         </div>

@@ -1,5 +1,5 @@
 <?php
-require_once 'config.php';
+require_once 'includes/config.php';
 require_once 'functions/printers.php';
 require_once 'functions/profiles.php';
 
