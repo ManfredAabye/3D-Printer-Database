@@ -1,13 +1,6 @@
 # 3D Printer Database
 
-ACHTUNG!!! Dies ist eine in der Entwicklung stehendes noch nicht korrekt funktionierendes Experiment.
-
-Dieses Projekt bietet eine webbasierte Verwaltungsoberfläche für 3D-Drucker, Druckprofile und Komponenten.
-
-Die Datenbankstruktur ist so gestaltet, dass sie universell und portierbar für verschiedene 3D-Druck-Firmwares (z. B. Klipper, Marlin, Repetier) 
-sowie Slicer-Software wie OrcaSlicer, PrusaSlicer, Cura und weitere geeignet ist. 
-
-Ziel ist es, eine einheitliche, flexible Datenbasis zu schaffen, die unabhängig von der eingesetzten Firmware oder Slicer-Software genutzt werden kann.
+Dieses Projekt stellt eine universelle, hersteller- und softwareübergreifende Datenbanklösung für die gesamte 3D-Druckerwelt bereit. Ziel ist es, eine gemeinsame, offene Datenbasis für Drucker, Profile und Komponenten zu schaffen, die unabhängig von Firmware (z. B. Klipper, Marlin, Repetier), Slicer-Software (wie OrcaSlicer, PrusaSlicer, Cura etc.) oder Hersteller eingesetzt werden kann. Die Software ermöglicht es, alle relevanten Druckerdaten zentral zu verwalten, auszutauschen und in verschiedenste Systeme zu integrieren.
 
 ## Features
 
